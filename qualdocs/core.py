@@ -295,11 +295,11 @@ def json_to_df(comments_json_dict, doc_ids = None, code_replace_dict=None):
         
         for i in code_split:
             if count == 0:
-                codes_df.ix[row]['code'] = i
+                codes_df.iloc[row]['code'] = i
             elif count == 1:
-                codes_df.ix[row]['subcode'] = i
+                codes_df.iloc[row]['subcode'] = i
             elif count == 2:
-                codes_df.ix[row]['sub_subcode'] = i
+                codes_df.iloc[row]['sub_subcode'] = i
             else:
                 assert True is False
             count = count + 1
