@@ -1,5 +1,5 @@
 # qualdocs
-A python library for supporting open qualitative coding of text data in Google Docs comments. It's written by [Stuart Geiger] (https://github.com/staeiou)
+A python library for supporting open qualitative coding of text data in Google Docs comments. It's written by [Stuart Geiger](https://github.com/staeiou)
 
 ## Motivation
 
