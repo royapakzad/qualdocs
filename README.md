@@ -1,8 +1,5 @@
 # qualdocs
-A python library for supporting open qualitative coding of text data in Google Docs comments.
-
-# Note: qualdocs is no longer maintained, and may not work due to changes Google has made to API access to Docs
-If you are interested in open-source software for qualitative data analysis, I recommend Taguette: https://taguette.org
+A python library for supporting open qualitative coding of text data in Google Docs comments. It's written by [Stuart Geiger] (https://github.com/staeiou)
 
 ## Motivation
 
